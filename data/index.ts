@@ -113,38 +113,38 @@ export const projects = [
   //   des: 'Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..',
   //   img: '/p4.svg',
   //   iconLists: ['/next.svg', '/tail.svg', '/ts.svg', '/three.svg', '/gsap.svg'],
-  //   link: 'https://github.com/adrianhajdin/iphone',
+  //   link: 'https://github.com/Armanhajdin/iphone',
   // },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Arman was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Arman's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Arman is the ideal partner.",
     name: 'Michael Johnson',
     title: 'Director of AlphaStream Technologies',
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Arman was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Arman's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Arman is the ideal partner.",
     name: 'Michael Johnson',
     title: 'Director of AlphaStream Technologies',
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Arman was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Arman's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Arman is the ideal partner.",
     name: 'Michael Johnson',
     title: 'Director of AlphaStream Technologies',
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Arman was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Arman's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Arman is the ideal partner.",
     name: 'Michael Johnson',
     title: 'Director of AlphaStream Technologies',
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Arman was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Arman's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Arman is the ideal partner.",
     name: 'Michael Johnson',
     title: 'Director of AlphaStream Technologies',
   },
