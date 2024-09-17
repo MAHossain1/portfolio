@@ -49,7 +49,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: 'Currently building a JS Animation library',
+    title:
+      'Currently learning and building a JS Animation library to create smooth, interactive animations for the web.',
     description: 'The Inside Scoop',
     className: 'md:col-span-3 md:row-span-2',
     imgClassName: 'absolute right-0 bottom-0 md:w-96 w-60',
@@ -72,36 +73,48 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: '3D Solar System Planets to Explore',
-    des: 'Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.',
-    img: '/p1.svg',
-    iconLists: ['/re.svg', '/tail.svg', '/ts.svg', '/three.svg', '/fm.svg'],
-    link: 'https://github.com/adrianhajdin?tab=repositories',
+    title: 'Mobile SHOP E-commerce',
+    des: 'Mobile Shop is a comprehensive platform tailored for mobile phone enthusiasts. It offers a streamlined and engaging shopping experience, enabling users to explore, compare, and purchase the latest smartphones. With advanced features like user reviews, order management, and a modern UI/UX design, the platform ensures a user-friendly experience for both customers and administrators.',
+    img: '/p5.svg',
+    iconLists: [
+      '/next.svg',
+      '/tail.svg',
+      '/ts.svg',
+      '/mongodb.svg',
+      '/redux.svg',
+    ],
+    link: 'https://github.com/MAHossain1/mobile-shop-frontend',
   },
   {
     id: 2,
-    title: 'Yoom - Video Conferencing App',
-    des: 'Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.',
-    img: '/p2.svg',
-    iconLists: ['/next.svg', '/tail.svg', '/ts.svg', '/stream.svg', '/c.svg'],
-    link: 'https://github.com/adrianhajdin/zoom-clone',
+    title: 'University Management System',
+    des: 'A comprehensive platform designed to streamline and manage various aspects of university operations, including student enrollment, course management, faculty administration, and academic records. This system aims to enhance efficiency, improve data accessibility, and provide a seamless experience for students, faculty, and administrators.',
+    img: '/p6.jpg',
+    iconLists: [
+      '/next.svg',
+      '/tail.svg',
+      '/ts.svg',
+      '/mongodb.svg',
+      '/redux.svg',
+    ],
+    link: 'https://github.com/MAHossain1/university-management-client',
   },
   {
     id: 3,
-    title: 'AI Image SaaS - Canva Application',
-    des: 'A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.',
-    img: '/p3.svg',
-    iconLists: ['/re.svg', '/tail.svg', '/ts.svg', '/three.svg', '/c.svg'],
-    link: 'https://github.com/adrianhajdin/ai_saas_app',
+    title: 'Empowering Your Health Journey [Still Working]',
+    des: ' A user-centric healthcare app designed to simplify personal health management. WellnessWave offers features like appointment scheduling, medication reminders, health tracking, and secure access to medical records, providing a seamless and comprehensive health management experience.',
+    img: '/p8.svg',
+    iconLists: ['/re.svg', '/tail.svg', '/ts.svg', '/three.svg', '/redux.svg'],
+    link: 'https://github.com/MAHossain1/well-spiring-health-frontend',
   },
-  {
-    id: 4,
-    title: 'Animated Apple Iphone 3D Website',
-    des: 'Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..',
-    img: '/p4.svg',
-    iconLists: ['/next.svg', '/tail.svg', '/ts.svg', '/three.svg', '/gsap.svg'],
-    link: 'https://github.com/adrianhajdin/iphone',
-  },
+  // {
+  //   id: 4,
+  //   title: 'Animated Apple Iphone 3D Website',
+  //   des: 'Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..',
+  //   img: '/p4.svg',
+  //   iconLists: ['/next.svg', '/tail.svg', '/ts.svg', '/three.svg', '/gsap.svg'],
+  //   link: 'https://github.com/adrianhajdin/iphone',
+  // },
 ];
 
 export const testimonials = [
