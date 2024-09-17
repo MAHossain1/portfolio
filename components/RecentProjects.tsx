@@ -6,7 +6,7 @@ import Link from 'next/link';
 
 const RecentProjects = () => {
   return (
-    <div className="py-20">
+    <div className="py-20" id="projects">
       <h1 className="heading mt-4">
         Some of My <span className="text-purple">Latest Creations</span>
       </h1>
