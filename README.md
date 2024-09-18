@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# My Portfolio
 
-## Getting Started
+This repository contains the code for my personal portfolio, showcasing my skills and projects. Built using cutting-edge technologies such as **Next.js**, **React**, **Three.js**, and **Tailwind CSS**, it includes 3D animations, smooth transitions, and a clean, modern design.
 
-First, run the development server:
+## 🛠️ Tech Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Next.js** (v14.2.11) - Server-side rendering and static site generation
+- **React** (v18) - Component-based UI development
+- **Three.js** (v0.168.0) - 3D animations and graphics
+- **React Three Fiber** (v8.17.7) - Declarative Three.js within React
+- **Framer Motion** (v11.5.4) - Animations and transitions
+- **Tailwind CSS** (v3.4.1) - Utility-first CSS framework
+- **Next Themes** (v0.3.0) - Dark/light mode support
+- **React Icons** (v5.3.0) & **Tabler Icons** (v3.16.0) - Icon sets
+- **React Lottie** (v1.2.4) - Lottie animations
+- **Tailwind Merge** (v2.5.2) - Utility class merging
+- **Mini SVG Data URI** (v1.4.4) - SVG optimization
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **3D Globe:** Integrated using **Three.js** and **three-globe** to showcase interactive 3D elements.
+- **Dark Mode Support:** Easily toggle between dark and light themes using **Next Themes**.
+- **Smooth Animations:** Implemented with **Framer Motion** for seamless transitions.
+- **Interactive Icons:** Leveraging **React Icons** and **Tabler Icons** for a modern touch.
+- **SVG Optimization:** Using **Mini SVG Data URI** for optimized SVG handling.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📦 Installation
 
-## Learn More
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   ```
+   
+2. Install the dependencies:
+   ```bash
+   npm install
+   ```
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+3. Run the development server:
+  ```bash
+   npm run dev
+   ```
