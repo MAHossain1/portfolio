@@ -218,13 +218,16 @@ export const socialMedia = [
   {
     id: 1,
     img: '/git.svg',
+    link: 'https://github.com/MAHossain1',
   },
   {
     id: 2,
-    img: '/twit.svg',
+    img: '/x1.png',
+    link: 'https://x.com/mahpro110',
   },
   {
     id: 3,
     img: '/link.svg',
+    link: 'https://www.linkedin.com/in/arman-web-developer/',
   },
 ];
